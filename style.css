@@ -1,0 +1,16 @@
+body{
+	margin:0;
+	padding: 20px;
+	
+}
+
+h1{
+	font-size: 6rem;
+	color: aqua;
+	transition: 1s all;
+}
+
+h1:hover{
+	color: red;
+}
+
