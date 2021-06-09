@@ -4,6 +4,8 @@ Simple and light weight implementation of Live Server.
 ## Introduction
 This is a light weight implementation of Live Server using Java and JavaScript. It works similar to the Live Server Plugin available in VS Code. This is a varaiation of the [Local Server](https://github.com/satanic-devil/Local-Server). It reloads pages automatically if there is any changes in the html or any of its related files. This works with Notepad too!
 
+No more manually refreshing.
+
 [Click here](https://youtu.be/2l7_yBnIEmE) to check it out on Youtube.
 
 ## How to Compile
