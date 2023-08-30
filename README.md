@@ -19,7 +19,6 @@ Run the following command to run
 ```bash
   java LocalServer
 ```
-![Example Output of Running the Live Server](https://github.com/satanic-devil/output-files/blob/main/live-server-cmd.png?raw=true)
 
 ## How to Access the Server
 1. Open browser on any device connected to the server/computer
@@ -31,5 +30,3 @@ Run the following command to run
 ## Limitations
 As of now only HTML, CSS and JS files are currently checked for changes.
 
-## Changes in the code as compared to Local Server 
-The *BaseServer* class is the Base class for both the *LiveServer* and the *LocalServer* as both perform the exact function only difference arises in the output that has to be sent which is taken care by the abstract method implemented by both the classes.
